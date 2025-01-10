@@ -52,6 +52,14 @@ This project is a real-time web chat application built with modern web technolog
   <img src="https://github-profile-trophy.vercel.app/?username=Annie2936&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true&rank=-?" alt="Annie2936's Trophy"/>
 </p>
 
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kareem1207/kareem1207/output/github-snake.svg" />
+</picture>
+
 ## Github Top Repos
 
   <a href ="https://github.com/Annie2936/Modular-Solver" >
