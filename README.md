@@ -104,7 +104,10 @@ This project is a real-time web chat application built with modern web technolog
 <img src="./images/Programming Languages/java-script.png" alt="JavaScript" width="50">
 </div>
 
+## Achievements
 
+- **Achievement One:** Acquired 3rd rank in Project Expo conducted by MGIT.
+- **Achievement Two:** Won a Coding Quiz Competition.
 
 ## Hobbies
 
