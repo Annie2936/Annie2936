@@ -107,7 +107,6 @@ This project is a real-time web chat application built with modern web technolog
 ## Achievements
 
 - **Achievement One:** Acquired 3rd rank in Project Expo conducted by MGIT.
-- **Achievement Two:** Won a Coding Quiz Competition.
 
 ## Hobbies
 
