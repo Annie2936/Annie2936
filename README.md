@@ -1,4 +1,4 @@
- Not an expert yet, just Annie learning and coding- one day , my projects will be worth sharing, I guess.
+## Not an expert yet, just Annie learning and coding- one day , my projects will be worth sharing, I guess.
 
 # Projects
 
@@ -8,7 +8,7 @@
 
 This involves recognizing hand gestures using computer vision techniques and skills in image processing and machine learning.
 
-### Web Chat Application
+## Web Chat Application
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/Projects/web-chat.png">
@@ -16,7 +16,7 @@ This involves recognizing hand gestures using computer vision techniques and ski
   <img alt="Web Chat Application" src="./images/Projects/web-chat.png" width="400">
 </picture>
 
-This project is a real-time web chat application built with modern web technologies. It demonstrates your proficiency in web development and real-time communication.
+This is a real-time web chat application built with modern web technologies and it demonstrates your proficiency in web development and real-time communication, ensuring the privacy.
 
 ## Contact
 
