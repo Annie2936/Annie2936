@@ -1,4 +1,4 @@
-Hello! I'm Annie Angel Yarram, a passionate developer with knowledge of various programming languages and a aritist.
+Not an expert yet, just Annie learning and coding- one day , my projects will be worth sharing i guess
 
 ## Projects
 
