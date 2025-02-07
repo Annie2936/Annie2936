@@ -2,11 +2,11 @@
 
 # Projects
 
-### Hand Gestures Code
+## Hand Gestures Code
 
 <img src="./images/Projects/hand-gestures.png" alt="Hand Gestures Code" width="400">
 
-This project involves recognizing hand gestures using computer vision techniques. It showcases your skills in image processing and machine learning.
+This involves recognizing hand gestures using computer vision techniques and skills in image processing and machine learning.
 
 ### Web Chat Application
 
